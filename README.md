@@ -2,42 +2,68 @@
 
 欢迎来到我的 GitHub。
 
-我是 **木易（muyirunner）**，目前主要在做 **Web 开发、AI 应用、自动化工具** 以及更有表达感的数字作品。喜欢把零散想法慢慢做成真正能运行、能展示、也能留下痕迹的项目。
+我是 **木易（muyirunner）**，目前主要在做 **Web 开发、AI 应用、自动化工具**，也在尝试把 **图像识别、系统设计与数字内容表达** 结合起来，做一些既能运行、也能展示的项目。
 
 🌐 **个人网站 / 在线作品集：** <http://www.muyirunner.icu>
 
-## 🚀 我目前在做什么
+## 我当前的主方向
 
-- 构建个人网站与在线作品集，持续整理自己的项目与表达方式
-- 探索 **AI + Web + 内容表达** 的结合方式
-- 尝试把文化数字化、交互体验设计和智能识别做成完整作品
+- **个人网站与作品集建设**：持续整理自己的公开门面与项目表达
+- **计算机视觉与文化数字化**：围绕唐卡识别、图像处理和系统原型做综合实践
+- **自动化与内容工作流**：把博客、后台、数据和日常工具逐步串起来
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### [muyirunner-site](https://github.com/muyirunner/muyirunner-site)
-我的个人网站与在线作品集项目，在线演示：<http://www.muyirunner.icu>
+我的个人网站与在线作品集项目，也是目前公开展示项目与内容的主入口。
 
 ### [thangka-detection](https://github.com/muyirunner/thangka-detection)
-基于 YOLOv8 的唐卡元素智能识别系统，聚焦图像识别与文化数字化场景。
+基于 YOLOv8 的唐卡元素智能识别项目，聚焦计算机视觉与文化数字化场景。
 
 ### [thangka-full-pipeline](https://github.com/muyirunner/thangka-full-pipeline)
-唐卡数字化全流程体验系统，结合前端交互、图像处理与智能识别。
+一个围绕唐卡数字化处理流程构建的系统型原型项目，整合了检测、去噪、超分辨率与前端交互体验。
 
 ### [mc_website](https://github.com/muyirunner/mc_website)
-一个 Minecraft 主题网站设计项目，偏前端页面与交互展示。
+一个较早期的前端网站设计项目，用于展示静态网页与页面结构能力。
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Vue, Tailwind CSS
-- **Backend:** Python, FastAPI, Flask
-- **AI / CV:** YOLOv8, 图像处理, 推理部署
-- **Tools:** Git, GitHub, 自动化脚本
+### Frontend
+- Vue
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML / CSS
 
-## 🌐 More
+### Backend / Service
+- Python
+- FastAPI
+- Flask
+- Supabase
+
+### AI / CV
+- YOLOv8
+- 图像处理
+- 推理部署
+- Real-ESRGAN
+
+### Tooling
+- Git / GitHub
+- 自动化脚本
+- Nginx / 部署配置
+
+## 当前在做什么
+
+- 持续整理和优化个人网站仓库结构
+- 补强博客系统与后台管理链路
+- 打磨唐卡相关项目的 README、门面与展示方式
+- 把零散项目逐步收成更完整的作品集
+
+## More
 
 - **Website:** <http://www.muyirunner.icu>
 - **GitHub:** <https://github.com/muyirunner>
 
 ---
 
-这里主要用来整理我的项目、记录我的技术方向，也慢慢把它们收拾成更像样的作品集。
+这里主要是我整理项目、沉淀方向、慢慢把作品做得更完整的地方。
